@@ -7,7 +7,9 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
+        <limit_concurrent_sessions>false</limit_concurrent_sessions>
         <name>x_58872_needit.needit_user</name>
+        <scoped_admin>false</scoped_admin>
         <suffix>needit_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
